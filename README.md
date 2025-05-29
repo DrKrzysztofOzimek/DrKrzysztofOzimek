@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dr. Krzysztof Ozimek
+# 👋 Hi, I’m Dr Krzysztof Ozimek
 
 Welcome to my GitHub!  
 I'm an independent: **Educator in Model-Based Finance | Financial Analyst & Researcher | Quantitative Investor & Trader**
