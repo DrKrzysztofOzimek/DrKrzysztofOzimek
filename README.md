@@ -5,8 +5,7 @@ I'm an independent: **Educator in Model-Based Finance | Financial Analyst & Rese
 
 ---
 
-👀 I’m interested in:  
-My expertise spans **12 key domains of Quantitative Finance**, including:  
+👀 My expertise spans **12 key domains of Quantitative Finance**, including:  
 **Asset Pricing**, **Corporate Finance**, **Financial Econometrics**, **Financial Mathematics**,  
 **Investment and Trading**, **Machine Learning in Finance**, **Market Microstructure**, **Neural Networks**,  
 **Portfolio Optimization**, **Risk Management**, **Statistics and Probability**, and **Stochastic Modelling**.
